@@ -1,10 +1,10 @@
 ---
-abbrlink: ''
+abbrlink: spfic
 categories: []
 date: '2022-08-19 14:30:15'
 tags: []
-title: title
-updated: '2022-08-19 14:35:40'
+title: 再見極域
+updated: '2022-08-19 14:47:27'
 ---## 再見極域
 
 這裏會分別從CODING上下載再見極域和多桌面程序(從網盤上下載整合包)。多桌面程序在有些WIN10電腦上會讓系統collapse。還是推薦把他們用在WIN7上，以免造成嚴重問題！
