@@ -235,7 +235,7 @@ dns_prefetch:
 
 # do more(TCP handshake...) than dns-fetch
 preconnect:
-  - https://cdn.jsdelivr.net
+  - https://fastly.jsdelivr.net
 
 # img loading="lazy"
 lazyload:
@@ -280,7 +280,7 @@ vendors:
 # UI
 banner:
   enable: true
-  title: 云游君的小站
+  title: WhiteGX的小站
   border: true
   cloud:
     enable: true
@@ -352,7 +352,7 @@ bg_image:
 # If enable true, reward would be displayed in every posts and pages by default.
 # You can show or hide reward in a specific page throuth `reward: true | false` in Front Matter.
 reward:
-  enable: true
+  enable: false
   icon: ri:hand-coin-line
   comment: I'm so cute. Please give me money.
   # url: https://github.com/YunYouJun/yunyoujun.github.io/issues/96
@@ -401,7 +401,7 @@ post_edit:
 # Footer Settings
 # ---------------
 footer:
-  since: 2019
+  since: 2021
 
   # Icon between year and copyright info.
   icon:
@@ -429,10 +429,10 @@ footer:
       id: XXXXXXXX
 
   live_time:
-    enable: false
+    enable: true
     prefix: 本博客已萌萌哒地运行
     suffix: (●'◡'●)
-    start_time: "2019-04-12T00:00:00"
+    start_time: "2021-10-12T00:00:00"
 
   # Display support
   # support:
